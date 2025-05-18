@@ -26,7 +26,7 @@ Then, you need to rename the previous `posts` folder to `post`
 
 ```bash
 cd <you-project-folder>
-mv content/posts content/post
+mv content/post content/post
 ```
 
 ## Setup readme
