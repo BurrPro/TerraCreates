@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://creates.terra.kiwi/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Terra Creates'
+theme = 'github-style'
