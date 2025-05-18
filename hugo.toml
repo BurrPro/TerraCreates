@@ -50,3 +50,7 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
 [services]
 [services.googleAnalytics]
 ID = "G-L33KX61ZX0"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
