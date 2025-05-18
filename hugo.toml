@@ -7,7 +7,7 @@ pygmentsUseClasses = true
 
 [params]
 author = "BurrPro"
-description = "In solitude, where we are least alone."
+description = "AV Tech on the pathway to full stack development. Along with breaking all the IT.."
 github = "BurrPro"
 email = "hello@terra.kiwi"
 url = "https://creates.terra.kiwi"
@@ -19,7 +19,7 @@ favicon = "/images/github.png"
 avatar = "/images/avatar.png"
 headerIcon = "/images/github-mark-light.png"
 location = "New Zealand"
-enableGitalk = false
+enableGitalk = true
 custom_css = ["css/custom.css"]
 custom_js = ["js/custom.js"]
 
